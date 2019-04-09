@@ -20,6 +20,7 @@ GLUON_SITE_PACKAGES := \
     gluon-status-page \
     gluon-status-page-mesh-batman-adv \
     iwinfo \
+    iw-full \
     iptables \
     haveged \
     gluon-ssid-changer \
