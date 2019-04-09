@@ -27,6 +27,7 @@ GLUON_SITE_PACKAGES := \
     gluon-banner \
     gluon-check-client-mesh \
     gluon-check-mesh \
+    respondd-module-airtime \
     rsk-nightswitch \
     gluon-rsk-block-mesh \
     gluon-rsk-config \
