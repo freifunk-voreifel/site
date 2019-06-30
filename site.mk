@@ -21,9 +21,6 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-hostname \
     gluon-config-mode-mesh-vpn \
     gluon-core \
-    gluon-banner \
-    gluon-check-client-mesh \
-    gluon-check-mesh \
     gluon-ebtables \
     gluon-ebtables-filter-multicast \
     gluon-ebtables-filter-ra-dhcp \
@@ -41,7 +38,6 @@ GLUON_SITE_PACKAGES := \
     gluon-respondd \
     respondd-module-airtime \
     gluon-setup-mode \
-    gluon-ssid-changer \
     gluon-status-page \
     gluon-status-page-mesh-batman-adv \
     gluon-tunneldigger-watchdog \
