@@ -13,7 +13,6 @@ GLUON_FEATURES := \
 	
 GLUON_SITE_PACKAGES := \
     gluon-alfred \
-    gluon-autoupdater \
     gluon-config-mode-autoupdater \
     gluon-config-mode-contact-info \
     gluon-config-mode-core \
@@ -21,25 +20,16 @@ GLUON_SITE_PACKAGES := \
     gluon-config-mode-hostname \
     gluon-config-mode-mesh-vpn \
     gluon-core \
-    gluon-ebtables \
-    gluon-ebtables-filter-multicast \
-    gluon-ebtables-filter-ra-dhcp \
     gluon-ebtables-source-filter \
-    gluon-ebtables-limit-arp \
     gluon-web-admin \
     gluon-web-autoupdater \
     gluon-web-network \
     gluon-web-private-wifi \
     gluon-web-wifi-config \
-    gluon-mesh-batman-adv-15 \
-    gluon-mesh-vpn-tunneldigger \
     gluon-neighbour-info \
     gluon-radvd \
     gluon-respondd \
     respondd-module-airtime \
-    gluon-setup-mode \
-    gluon-status-page \
-    gluon-status-page-mesh-batman-adv \
     gluon-tunneldigger-watchdog \
     haveged \
     iptables \
@@ -47,9 +37,9 @@ GLUON_SITE_PACKAGES := \
     iw-full \
 
 
-# End of module list
+ 
 
-GLUON_MULTIDOMAIN=1
+
 # basic support for USB stack
 USB_PACKAGES_BASIC := \
 	kmod-usb-core \
